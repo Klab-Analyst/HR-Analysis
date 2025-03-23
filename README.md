@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
- 
+- [Analysis](#analysis)
 
 - ### Project Overview
 
